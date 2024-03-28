@@ -22,6 +22,7 @@ Our initial data came from IMDB, The Numbers, and Box Office Mojo.
 - Financial reporting across studios can differ, in particular due to the manner in which compensation is paid, which could alter any profitability analysis.
 - There are many below-the-line costs, such as press & advertising and cinema revenue-sharing, that differs from film to film and could have an effect on this analysis.
 
+
 <font size="+1">**Analysis**</font>  
 We used the ratio of domestic box office sales to production budget as our proxy for how profitable each film was.  Since production budget represents Calculated Craft's investment dollars, it is important to scale gross revenues by investment dollars to determine how successful each investment dollar is.
 
