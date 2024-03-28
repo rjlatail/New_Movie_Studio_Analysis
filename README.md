@@ -53,7 +53,7 @@ Finally, we investigated whether producers who make movies frequently are typica
 <font size="+1">**Conclusion**</font>  
 Our data analysis shows that:
 - Keeping budgets small leads to higher profitability over time
-- Horror, myster, thriller and romance movies are more reliably profitable
+- Horror, mystery, thriller and romance movies are more reliably profitable
 - Making more movies leads to more profitability
 
 
