@@ -50,6 +50,13 @@ We examined particular genres to determine whether any of them showed higher pro
 Finally, we investigated whether producers who make movies frequently are typically more profitable than those who make fewer movies over time.  We found that they are.  Again, the data do not suggest why this is the case, but from our domain research we discovered that the most prolific filmmakers (Tyler Perry, Blumhouse, Working Title, Hallmark) ascribe their success to identifying successful story patterns and formats and using them repeatedly and maintaining cost discipline.  This addresses a specific market demand component and allows them to improve through iteration.
 
 
-<font size="+1">**Interactive Dashboard:**</font>
+<font size="+1">**Conclusion**</font>  
+Our data analysis shows that:
+- Keeping budgets small leads to higher profitability over time
+- Horror, myster, thriller and romance movies are more reliably profitable
+- Making more movies leads to more profitability
 
-' INSERT LINK HERE
+
+<font size="+1">**Interactive Dashboard:**</font>  
+
+https://public.tableau.com/views/Movie_Statistics/Budgets-Scaled?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
