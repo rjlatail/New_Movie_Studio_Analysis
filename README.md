@@ -4,11 +4,11 @@ by  Karina Baculima, Monica Pecha, and Rick Lataille for Flatiron School
 
 ![Title](https://github.com/rjlatail/Phase_2_Repo/blob/main/Images/title.png)
 
-<font size="+1">**Repository Contents**</font>
+<font size="+1">**Repository Contents**</font>  
 Within our repository, you will find our final Jupyter Notebook titled "New_Studio_Analysis.ipynb". You will also find a pdf version of our Powerpoint presentation labeled "Studio_Recommendations.pdf". At the bottom of this README you will find a link to the interactive Tableau dashboard of our analysis.
 
 
-<font size="+1">**Business Understanding**</font>
+<font size="+1">**Business Understanding**</font>  
 Calculated Craft Studios is a new start-up movie studio looking to make films in order to generate healthy and reliable returns.  They have asked for three recommendations as to how to enter this market
 
 <font size="+1">**Source of Data**</font>
